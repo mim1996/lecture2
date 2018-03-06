@@ -6,8 +6,8 @@
 #######################################
 
 # name = value
-name = "Ali"
-year = 1396
+name = "mim"
+year = 1996
 
 ###########################################
 ###### accessing the value inside variable#
