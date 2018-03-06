@@ -1,4 +1,4 @@
-####################################
+15####################################
 # following variables are the same #
 ####################################
 # str1=" salam "
@@ -7,7 +7,7 @@
 ######################
 ## concat two string #
 ######################
-# name='mohammad'
+# name='mim'
 # greeting= str1+name
 # print(greeting)
 #
@@ -26,7 +26,7 @@
 ###########################################
 ### another sample of printing a varibale #
 ###########################################
-pi = 3.14
+pi = 3.1415
 print(pi)
 str_pi = str(pi)
 print("pi number is : ", pi)  # print each part of input separately
